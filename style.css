@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 100px ;
 }
 
 .cream-bg{
@@ -20,4 +20,40 @@ border-radius:8px ;
 padding:9px 25px;
 cursor: pointer;
 
+}
+.cat-1{
+    background-color: orange;
+}
+.cat-2{
+    background-color: orchid;
+}
+.cat-3{
+    background-color: blue;
+}
+.cat-1, .cat-2, .cat-3{
+    padding:10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.categoris img{
+    width:130px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px rgb(160, 156, 156);
+    border-radius: 10px;
+}
+.card-footer{
+    background-color:white;
+    border-top: none;
+}
+#contact{
+height: 300px;
+
+}
+#contact h6{
+    color: rgb(77, 110, 110);
+}
+footer{
+    text-align: center;
 }
